@@ -1,0 +1,21 @@
+{
+  "name": "google-sheet-sequencer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@googleapis/sheets": "^2.0.1",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "googleapis": "^99.0.0",
+    "midi": "^2.0.0",
+    "node-fetch": "^3.2.3",
+    "nodemon": "^2.0.15",
+    "tone": "^14.7.77"
+  }
+}
